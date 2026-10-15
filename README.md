@@ -1,7 +1,7 @@
 SickBoiBro's Ultimate ULTIMATE Deltarune Mod
 
 A combination of Seek's Ultimate and Cool Deltarune Mod
-
+<img width="1666" height="944" alt="Raly+Sussy Psych" src="https://github.com/user-attachments/assets/729c0c73-2898-45b8-8e12-6b086b37b33a" />
 This mod combines Seek's Ultimate and Cool Deltarune Mod into one unified experience, with an updated and cleaner UI to improve the overall quality of life. Instead of switching between different mods depending on which song you want to play, this project brings everything together in one place. The goal is to make playing these songs more convenient while keeping the best parts of both mods.
 
 FEATURES:
